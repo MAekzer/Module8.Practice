@@ -4,3 +4,5 @@
 2. Задание 2 - Метод CountSize в классе Task1to3Class в проекте Module8.Practice.
 3. Задание 3 - Метод CountAndClean в классе Task1to3Class в проекте Module8.Practice.
 4. Задание 4 - Проект Task4 (FinalTask в Visual Studio).
+
+* Метод CountFiles - вспомагательный метод.
